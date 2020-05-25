@@ -9,4 +9,4 @@ dependencies:
   - matplotlib
   - ipywidgets>=0.6.0
   - mkl
-  - SimPEG>=0.14
+  - SimPEG>=0.14.0b2
