@@ -1,0 +1,12 @@
+name: transform-simpeg
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets>=0.6.0
+  - mkl
+  - SimPEG>=0.14
