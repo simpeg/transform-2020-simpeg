@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# repo specific
+*.CON
+*.DAT
+*.LOG
+*.OUT
+*.plot
+*.INP
+*.CHG
+*.PRE
+*.ZIP
