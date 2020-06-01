@@ -104,14 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # repo specific
-*.CON
-*.DAT
-*.LOG
-*.OUT
 *.plot
-*.INP
-*.CHG
-*.PRE
-*.ZIP
 *.gmt
 *.ps
