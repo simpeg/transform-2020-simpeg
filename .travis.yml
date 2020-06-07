@@ -15,7 +15,7 @@ before_install:
 
 install:
   - conda env create -f environment.yml
-  - source activate transform-2020-simpeg
+  - source activate t20-tue-simpeg
   - pip install -r requirements_dev.txt
 
 script:

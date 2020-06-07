@@ -1,4 +1,4 @@
-name: transform-2020-simpeg
+name: t20-tue-simpeg
 
 channels:
   - conda-forge
