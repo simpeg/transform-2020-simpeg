@@ -4,9 +4,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python>=3.6
   - numpy
   - scipy
   - matplotlib
+  - jupyter
   - ipywidgets>=0.6.0
   - mkl
   - pip
