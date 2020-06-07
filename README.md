@@ -80,7 +80,7 @@ There are a few things you'll need to follow the tutorial:
 
 1. A working Python intallation ([Anaconda](https://www.anaconda.com/products/individual) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 2. The SimPEG *conda environment* installed
-3. A web browser that works with JupyterLab 
+3. A web browser that works with Jupyter 
    (basically anything except Internt Explorer)
 
 To get things setup, please do the following.
