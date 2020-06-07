@@ -4,7 +4,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simpeg/transform-2020-simpeg/master) 
 [![Build Status](https://travis-ci.org/simpeg/transform-2020-simpeg.svg?branch=master)](https://travis-ci.org/simpeg/transform-2020-simpeg)
-[![License](https://img.shields.io/github/license/simpeg-research/transform-2020-simpeg.svg)](https://github.com/simpeg-research/transform-2020-simpeg/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/simpeg/transform-2020-simpeg.svg)](https://github.com/simpeg/transform-2020-simpeg/blob/master/LICENSE)
 
 |         | Info |
 |--------:|:-----|
@@ -12,6 +12,9 @@
 | Slack   | [Software Underground](https://softwareunderground.org/) channel `t20-tue-simpeg` |
 | YouTube | https://youtu.be/jZ7Sj9cnnso |
 | conda environment  | `t20-tue-simpeg` |
+
+**Team**
+- [Lindsey Heagy](http://github.com/lheagy)
 
 ## Before the tutorial 
 
@@ -77,7 +80,7 @@ There are a few things you'll need to follow the tutorial:
 
 1. A working Python intallation ([Anaconda](https://www.anaconda.com/products/individual) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 2. The SimPEG *conda environment* installed
-3. A web browser that works with JupyterLab 
+3. A web browser that works with Jupyter 
    (basically anything except Internt Explorer)
 
 To get things setup, please do the following.
