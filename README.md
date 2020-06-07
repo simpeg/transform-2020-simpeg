@@ -4,7 +4,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simpeg/transform-2020-simpeg/master) 
 [![Build Status](https://travis-ci.org/simpeg/transform-2020-simpeg.svg?branch=master)](https://travis-ci.org/simpeg/transform-2020-simpeg)
-[![License](https://img.shields.io/github/license/simpeg-research/transform-2020-simpeg.svg)](https://github.com/simpeg-research/transform-2020-simpeg/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/simpeg/transform-2020-simpeg.svg)](https://github.com/simpeg/transform-2020-simpeg/blob/master/LICENSE)
+
+**Team**
+- [Lindsey Heagy](http://github.com/lheagy)
 
 |         | Info |
 |--------:|:-----|
