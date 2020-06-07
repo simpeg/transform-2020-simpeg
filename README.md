@@ -6,15 +6,15 @@
 [![Build Status](https://travis-ci.org/simpeg/transform-2020-simpeg.svg?branch=master)](https://travis-ci.org/simpeg/transform-2020-simpeg)
 [![License](https://img.shields.io/github/license/simpeg/transform-2020-simpeg.svg)](https://github.com/simpeg/transform-2020-simpeg/blob/master/LICENSE)
 
-**Team**
-- [Lindsey Heagy](http://github.com/lheagy)
-
 |         | Info |
 |--------:|:-----|
 | When    | Tuesday, June 19 • 12:00 - 15:00 UTC |
 | Slack   | [Software Underground](https://softwareunderground.org/) channel `t20-tue-simpeg` |
 | YouTube | https://youtu.be/jZ7Sj9cnnso |
 | conda environment  | `t20-tue-simpeg` |
+
+**Team**
+- [Lindsey Heagy](http://github.com/lheagy)
 
 ## Before the tutorial 
 
