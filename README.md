@@ -14,7 +14,13 @@
 | conda environment  | `t20-tue-simpeg` |
 
 **Team**
-- [Lindsey Heagy](http://github.com/lheagy)
+- [Lindsey Heagy](http://github.com/lheagy) (Instructor)
+- [Seogi Kang](https://github.com/sgkang)
+- [Joe Capriotti](https://github.com/jcapriot)
+- [Dom Fournier](https://github.com/fourndo)
+- [John Kuttai](https://github.com/JKutt)
+- [Doug Oldenburg](http://github.com/dougoldenburg)
+- and the [SimPEG contributors](https://github.com/simpeg/simpeg/graphs/contributors)
 
 ## Before the tutorial 
 
