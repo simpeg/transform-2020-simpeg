@@ -14,7 +14,13 @@
 | conda environment  | `t20-tue-simpeg` |
 
 **Team**
-- [Lindsey Heagy](http://github.com/lheagy)
+- [Lindsey Heagy](http://github.com/lheagy) (Instructor)
+- [Seogi Kang](https://github.com/sgkang)
+- [Joe Capriotti](https://github.com/jcapriot)
+- [Dom Fournier](https://github.com/fourndo)
+- [John Kuttai](https://github.com/JKutt)
+- [Doug Oldenburg](http://github.com/dougoldenburg)
+- and the [SimPEG contributors](https://github.com/simpeg/simpeg/graphs/contributors)
 
 ## Before the tutorial 
 
@@ -24,7 +30,7 @@ Make sure you've done these things before the tutorial on Tuesday:
 1. Join the channel `t20-tue-simpeg`. This is where **all communication will happen**.
 1. Set up your computer ([intructions below](#setup)). We will not have time to
    solve many computer issues during the tutorial so make sure you do this
-   ahead of time. If you need any help, ask at the `t20-thu-verde` channel on
+   ahead of time. If you need any help, ask at the `t20-tue-simpeg` channel on
    Slack.
 1. If you have some data you'd like to process, please have it ready and make
    sure you can load it with pandas or numpy. You'll have some time at the end
