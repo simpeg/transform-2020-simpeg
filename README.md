@@ -1,4 +1,4 @@
-**[summary](#summary) | [prerequisites](#prerequisites) | [setup](#setup) | [license](#license)**
+**[summary](#summary) | [prerequisites](#prerequisites) | [setup](#setup) | [resources](#resources) | [license](#license)**
 
 # Transform 2020: Geophysical inversions with SimPEG
 
@@ -12,6 +12,7 @@
 | Slack   | [Software Underground](https://softwareunderground.org/) channel `t20-tue-simpeg` |
 | YouTube | https://youtu.be/jZ7Sj9cnnso |
 | conda environment  | `t20-tue-simpeg` |
+| Intro Slides  | [SimPEG Transform presentation](https://docs.google.com/presentation/d/1Iw0chJUvjaiuGpQIqiYal719pcvWD2xs2z2aXkpQThQ/edit?usp=sharing) |
 
 **Team**
 - [Lindsey Heagy](http://github.com/lheagy) (Instructor)
@@ -19,6 +20,7 @@
 - [Joe Capriotti](https://github.com/jcapriot)
 - [Dom Fournier](https://github.com/fourndo)
 - [John Kuttai](https://github.com/JKutt)
+- [Dieter Werthmüller](http://github.com/prisae)
 - [Doug Oldenburg](http://github.com/dougoldenburg)
 - and the [SimPEG contributors](https://github.com/simpeg/simpeg/graphs/contributors)
 
@@ -145,6 +147,19 @@ Jupyter will then launch in your web-browser.
 
 If you are able to open any one of the notebooks and run the first cell, then you should be good to go!
 If you run into issues, please post in the #t20-tue-simpeg slack channel. 
+
+## Resources
+**Resources on Geophysics and Inversions**
+- [Geophysics for Practicing Geoscientists](https://gpg.geosci.xyz/)
+- [EM GeoSci](http://em.geosci.xyz/)
+- Lectures from EOSC 350: Exploration & Environmental Geophysics ([2017](https://www.youtube.com/watch?v=C1U2okdfMbU&list=PLd9tNwsUm9jOhbLqjhjDW6ASqwRJtHTb5), [2018](https://www.youtube.com/watch?v=7kFPNooixyw&list=PLd9tNwsUm9jPrWrpdg1JHLieKrzK5w8_-))
+- DISC 2017 lectures ([Mexico City](https://www.youtube.com/watch?v=uCnfWXWs5MM&list=PLd9tNwsUm9jM8GWLJm7XLLrE9PYuK-ca2))
+
+**Resources on SimPEG**
+- [Docs](http://docs.simpeg.xyz/)
+- [Discourse](http://simpeg.discourse.group/)
+- [Slack](http://slack.simpeg.xyz/)
+- [This Tutorial](https://github.com/simpeg/transform-2020-tutorial/)
 
 
 ## License
