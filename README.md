@@ -19,6 +19,7 @@
 - [Joe Capriotti](https://github.com/jcapriot)
 - [Dom Fournier](https://github.com/fourndo)
 - [John Kuttai](https://github.com/JKutt)
+- [Dieter Werthmüller](http://github.com/prisae)
 - [Doug Oldenburg](http://github.com/dougoldenburg)
 - and the [SimPEG contributors](https://github.com/simpeg/simpeg/graphs/contributors)
 
