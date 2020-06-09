@@ -1,4 +1,4 @@
-**[summary](#summary) | [prerequisites](#prerequisites) | [setup](#setup) | [license](#license)**
+**[summary](#summary) | [prerequisites](#prerequisites) | [setup](#setup) | [resources](#resources) | [license](#license)**
 
 # Transform 2020: Geophysical inversions with SimPEG
 
@@ -145,6 +145,19 @@ Jupyter will then launch in your web-browser.
 
 If you are able to open any one of the notebooks and run the first cell, then you should be good to go!
 If you run into issues, please post in the #t20-tue-simpeg slack channel. 
+
+## Resources
+**Resources on Geophysics and Inversions**
+- [Geophysics for Practicing Geoscientists](https://gpg.geosci.xyz/)
+- [EM GeoSci](http://em.geosci.xyz/)
+- Lectures from EOSC 350: Exploration & Environmental Geophysics ([2017](https://www.youtube.com/watch?v=C1U2okdfMbU&list=PLd9tNwsUm9jOhbLqjhjDW6ASqwRJtHTb5), [2018](https://www.youtube.com/watch?v=7kFPNooixyw&list=PLd9tNwsUm9jPrWrpdg1JHLieKrzK5w8_-))
+- DISC 2017 lectures ([Mexico City](https://www.youtube.com/watch?v=uCnfWXWs5MM&list=PLd9tNwsUm9jM8GWLJm7XLLrE9PYuK-ca2))
+
+**Resources on SimPEG**
+- [Docs](http://docs.simpeg.xyz/)
+- [Discourse](http://simpeg.discourse.group/)
+- [Slack](http://slack.simpeg.xyz/)
+- [This Tutorial](https://github.com/simpeg/transform-2020-tutorial/)
 
 
 ## License
