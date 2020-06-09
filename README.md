@@ -12,6 +12,7 @@
 | Slack   | [Software Underground](https://softwareunderground.org/) channel `t20-tue-simpeg` |
 | YouTube | https://youtu.be/jZ7Sj9cnnso |
 | conda environment  | `t20-tue-simpeg` |
+| Intro Slides  | [SimPEG Transform presentation](https://docs.google.com/presentation/d/1Iw0chJUvjaiuGpQIqiYal719pcvWD2xs2z2aXkpQThQ/edit?usp=sharing) |
 
 **Team**
 - [Lindsey Heagy](http://github.com/lheagy) (Instructor)
