@@ -8,7 +8,7 @@
 
 |         | Info |
 |--------:|:-----|
-| When    | Tuesday, June 19 • 12:00 - 15:00 UTC |
+| When    | Tuesday, June 9 • 12:00 - 15:00 UTC |
 | Slack   | [Software Underground](https://softwareunderground.org/) channel `t20-tue-simpeg` |
 | YouTube | https://youtu.be/jZ7Sj9cnnso |
 | conda environment  | `t20-tue-simpeg` |
