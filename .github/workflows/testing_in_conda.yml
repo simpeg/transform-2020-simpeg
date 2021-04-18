@@ -34,15 +34,9 @@ jobs:
         source activate t20-tue-simpeg
         pip install -r requirements_dev.txt
 
-    - name: Install Our Package
-      shell: bash
-      run: |
-        source activate t20-tue-simpeg
-        pip install -e .
-        conda list
-
     - name: Run Tests
       shell: bash
       run: |
         source activate t20-tue-simpeg
+        conda list
         pytest .
