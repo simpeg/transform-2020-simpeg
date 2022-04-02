@@ -2,9 +2,8 @@
 
 # Transform 2020: Geophysical inversions with SimPEG
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simpeg/transform-2020-simpeg/master)
-[![Build Status](https://travis-ci.org/simpeg/transform-2020-simpeg.svg?branch=master)](https://travis-ci.org/simpeg/transform-2020-simpeg)
-[![License](https://img.shields.io/github/license/simpeg/transform-2020-simpeg.svg)](https://github.com/simpeg/transform-2020-simpeg/blob/master/LICENSE)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simpeg/transform-2020-simpeg/main)
+[![License](https://img.shields.io/github/license/simpeg/transform-2020-simpeg.svg)](https://github.com/simpeg/transform-2020-simpeg/blob/main/LICENSE)
 
 |         | Info |
 |--------:|:-----|
@@ -113,7 +112,7 @@ manager. If you already have one, you can skip this step.
 To access the notebooks, there are 3 options (in order of preference):
 1. Use git to clone this repository
 2. From GitHub, you can use the `download` option to download this repository as a zip file (follow all instructions below, replacing the `git clone` step with download and unzip the zip file with the repository contents.
-3. You can run the notebooks online with binder through: https://mybinder.org/v2/gh/simpeg/transform-2020-simpeg/master
+3. You can run the notebooks online with binder through: https://mybinder.org/v2/gh/simpeg/transform-2020-simpeg/main
 
 To clone this repository, open up a terminal and navigate to where you want this repository stored on your computer.
 
