@@ -7,8 +7,9 @@ dependencies:
   - python>=3.6
   - numpy
   - scipy
-  - matplotlib
+  - matplotlib<3.5
   - jupyter
   - ipywidgets>=0.6.0
   - mkl
+  - discretize==0.7.0
   - simpeg==0.14.1
