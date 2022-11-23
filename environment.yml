@@ -7,7 +7,7 @@ dependencies:
   - python>=3.6
   - numpy
   - scipy
-  - matplotlib
+  - matplotlib==3.4.0
   - jupyter
   - ipywidgets>=0.6.0
   - mkl
